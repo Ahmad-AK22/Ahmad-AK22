@@ -1,48 +1,53 @@
+<h1 align="center">Hi 👋, I'm Ahmad Alkurdi</h1>
 <p align="center">
-  <img width="80%" alt="Hi, I'm Ahmad!" src="https://user-images.githubusercontent.com/your-custom-header.png" />
+  Biomedical Engineering student | Embedded Systems Enthusiast | Maker
 </p>
 
-<br />
+---
 
-I'm a Biomedical Engineering student at Damascus University 🧠⚙️  
-Specialized in **microcontrollers**, **electronics**, **mechanical design with SolidWorks**, and **3D printing**.
+🎓 I'm a Biomedical Engineering student at **Damascus University**  
+🔧 I specialize in **microcontrollers**, **electronics**, **SolidWorks design**, and **3D printing**
 
 ---
 
-**About me**
+## 🔧 Skills
 
-- 🎓 Biomedical Engineering senior at Damascus University
-- 🤖 I work with **Arduino**, **ESP8266/ESP32**, and **Raspberry Pi Pico**
-- 🛠️ I design, build, and program electronic systems and robotic tools
-- 🖋️ Mechanical design using **SolidWorks** for real-world prototypes
-- 🧪 Currently building a **robotic surgical arm prototype**
-
-<code><img height="20" alt="Arduino" src="https://raw.githubusercontent.com/github/explore/main/topics/arduino/arduino.png"></code>
-<code><img height="20" alt="ESP32" src="https://raw.githubusercontent.com/github/explore/main/topics/esp32/esp32.png"></code>
-<code><img height="20" alt="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="20" alt="SolidWorks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/SolidWorks_Logo.png/240px-SolidWorks_Logo.png"></code>
-<code><img height="20" alt="MicroPython" src="https://raw.githubusercontent.com/github/explore/main/topics/micropython/micropython.png"></code>
+- Programming microcontrollers: **Arduino C**, **MicroPython**
+- Platforms: `Arduino`, `ESP8266/ESP32`, `Raspberry Pi Pico`
+- Electronic circuit design and prototyping
+- 3D printing and mechanical fabrication
+- CAD modeling with **SolidWorks**
 
 ---
 
-| <a href="https://github.com/yourusername"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="Ahmad's GitHub stats" /></a> | <a href="https://github.com/yourusername"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" /></a> |
+## 🚧 Currently Working On
+
+🦾 Developing a **robotic surgical arm prototype**, combining 3D-printed parts, embedded electronics, and precise mechanical design — as part of a personal research project aligned with biomedical engineering.
+
+---
+
+## 📈 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="Ahmad's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" /> |
 | ------------- | ------------- |
 
-#### Featured Projects
+---
 
-<a href="https://github.com/yourusername/robotic-surgical-arm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=robotic-surgical-arm&theme=default" />
-</a>
-<a href="https://github.com/yourusername/bmo-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bmo-bot&theme=default" />
-</a>
+## 📌 Featured Projects
 
-<br />
-<br />
+- 🤖 [BMO Bot](https://github.com/yourusername/bmo-bot) — OLED animated face with 3D-printed case  
+- 🌡️ [Medical Sensor Integration](https://github.com/yourusername/medical-sensors) — Experimenting with biomedical sensors and microcontrollers  
+- 🦾 [Robotic Surgical Arm](https://github.com/yourusername/robotic-surgical-arm) *(in progress)* — Biomedical-focused robotic prototype
 
-<a href="https://linkedin.com/in/yourprofile">
-  <img align="right" alt="Ahmad Alkurdi | LinkedIn" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img align="right" alt="Ahmad Alkurdi | Email" width="20px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
-</a>
+---
+
+## 📫 Connect with me
+
+- GitHub: [@yourusername](https://github.com/yourusername)  
+- Email: your.email@example.com  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+*Exploring the intersection of healthcare, hardware, and code.*
+
