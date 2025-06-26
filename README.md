@@ -35,9 +35,7 @@
 
 ## 📫 Connect with me
 
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: ahmad.kurdi.ak.2000@gmail.com
 
 ---
 
