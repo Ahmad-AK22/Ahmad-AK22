@@ -35,7 +35,7 @@
 
 ## 📫 Connect with me
 
-- Email: ahmad.kurdi.ak.2000@gmail.com
+- Email: eng.ahmed.alkurdi@gmail.com
 
 ---
 
