@@ -26,13 +26,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="Ahmad's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" /> |
-| ------------- | ------------- |
-
----
-
 ## 📫 Connect with me
 
 - Email: eng.ahmed.alkurdi@gmail.com
